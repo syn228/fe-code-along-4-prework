@@ -5,6 +5,10 @@
 is 
 a comment! */
 
+img, video, audio{
+  max-width: 100%;
+}
+
 .clearfix:after{
   content: ".";
   display: block;
