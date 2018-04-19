@@ -5,6 +5,10 @@
 is 
 a comment! */
 
+* {
+  box-sizing: border-box;
+}
+
 img, video, audio{
   max-width: 100%;
 }
@@ -47,6 +51,14 @@ img, video, audio{
 .first {
   margin-left: 0%;
 }
+
+section{
+  padding: 20px;
+  margin-bottom: 20px;
+  
+  
+}
+
 /* Type selector */
 
 p { /* select all <p> */
