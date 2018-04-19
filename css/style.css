@@ -6,7 +6,9 @@ is
 a comment! */
 
 .wrapper{
-  
+  width: 960px;
+  margin: 0 auto;
+  background-color: gray;
 }
 
 /* Type selector */
