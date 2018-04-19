@@ -27,7 +27,7 @@ a comment! */
   background: #ccc;
 }
 
-[class]
+[class*=]
 /* Type selector */
 
 p { /* select all <p> */
